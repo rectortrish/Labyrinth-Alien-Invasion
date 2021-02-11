@@ -4,7 +4,7 @@
 
 import sys
 import pygame
-from settings_copy_work import Settings
+from settings import Settings
 from ship import Ship
 
 
